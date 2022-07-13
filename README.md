@@ -38,7 +38,7 @@
         - macOS [Fn] + [Right]
     - With your multi-cursors at the beginning of each line type `",`
     - For proper JSON formatting, remove the comma of the last element of our Bootstrap code
-11. See the example entire example is provided
+11. [Example snippet final code](https://github.com/zaxx81/vscode-user-snippet/blob/main/boostrap-nav.code-snippets)
 
 ### References
 1. [Snippets in Visual Studio Code](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
