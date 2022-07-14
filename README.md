@@ -31,7 +31,7 @@
     - Place your cursor at the beginning of the first line of Bootstrap example code, right before the `<nav>`
     - Add multi-cursors to the beginning of each line of Bootstrap example code
         - PC [Ctrl] + [Alt] + [Down] until you reach the last line of Boostrap example code
-        - macOS [Ctrl] + [Option] + [Down] until you reach the last line of Boostrap example code
+        - macOS [Cmd] + [Option] + [Down] until you reach the last line of Boostrap example code
     - With your multi-cursors at the beginning of each line type `"`
     - Move your multi-cursors to the end of each line
         - PC [end]
